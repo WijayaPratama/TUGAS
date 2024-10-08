@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728403820 source:e:\semester 3\std\tugas\tugas1\penerbangan.cpp
+	<iostream>
+	"penerbangan.h"
+
+1728404271 source:e:\semester 3\std\tugas\tugas1\main.cpp
+	<iostream>
+	"penerbangan.h"
+
+1728402123 e:\semester 3\std\tugas\tugas1\penerbangan.h
+	<iostream>
+
