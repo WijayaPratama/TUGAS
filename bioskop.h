@@ -96,7 +96,6 @@ void editPenonton(list_Penonton &L, int idPenonton);
 void showFilmPenonton(list_Relasi L);
 void insertRelasi(list_Relasi &L, adr_Film film, adr_Penonton penonton);
 void findPenontonFromFilm(list_Relasi &L,int idFilm);
-void TotalPenonton(list_Relasi L);
 
 
 #endif // BIOSKOP_H_INCLUDED

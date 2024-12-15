@@ -271,18 +271,6 @@ void findPenontonFromFilm(list_Relasi &L, int idFilm) {
 }
 
 
-void TotalPenonton(list_Relasi L) {
-    adr_Relasi P = first(L);
-    int total = 0;
-
-    while (P != NULL) {
-        total++;
-        P = next(P);
-    }
-
-    cout<<"TOTAL SEMUA PENONTON DARI SEMUA FILM = "<<total<<endl;
-}
-
 
 
 
